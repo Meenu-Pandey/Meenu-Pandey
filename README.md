@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I’m Meenu Pandey 👋
 
-<!--
-**Meenu-Pandey/Meenu-Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student learning software engineering by building systems and solving problems, not collecting buzzwords.
 
-Here are some ideas to get you started:
+I focus on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Problem-solving through DSA in Java
+
+Practical software development with full-stack MERN
+
+Selective AI experiments to understand real-world applications
+
+I value clear logic, clean code, and consistent execution.
+
+On GitHub, I build, iterate, and document decisions through code and READMEs.
+If a repository exists, it exists for a reason.
+
+🎯 Preparing for Software Development Engineer (SDE) roles with a depth-first approach.
