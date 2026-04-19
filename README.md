@@ -1,6 +1,6 @@
 ## Hi, I’m Meenu Pandey 👋
 
-Final-year Computer Science student learning software engineering by **building systems and solving problems**, not collecting buzzwords.
+Final-year Computer Science student learning software engineering by **building systems and solving problems**.
 
 ## I focus on:
 
