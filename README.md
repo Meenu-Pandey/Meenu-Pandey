@@ -99,32 +99,6 @@ public class MeenuPandey {
 
 ---
 
-## GitHub Insights
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Meenu-Pandey&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8"/>
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenu-Pandey&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1"/>
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meenu-Pandey&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&hide_border=true"/>
-</p>
-
----
-
-## Engineering Principles
-
-<p align="center">
-<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Performance_Optimization-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Distributed_Systems-0EA5E9?style=for-the-badge"/>
-</p>
-
----
-
 <p align="center">
   <i>"Scalable software is built through clarity, discipline, and relentless optimization."</i>
 </p>
