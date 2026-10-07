@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Meenu Pandey 👋</h1>
 
 <p align="center">
-  <strong>Backend Engineer • Full Stack Developer • Building Practical Systems</strong>
+  <strong>Software Engineer • Full Stack Developer • Building Practical Systems</strong>
 </p>
 
 <p align="center">
